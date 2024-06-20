@@ -1,1 +1,9 @@
 data/us_school_districts filter=lfs diff=lfs merge=lfs -text
+data/us_school_districts/EDGE_SCHOOLDISTRICT_TL_23_SY2223.shx filter=lfs diff=lfs merge=lfs -text
+data/us_school_districts/EDGE_SCHOOLDISTRICT_TL_23_SY2223.CPG filter=lfs diff=lfs merge=lfs -text
+data/us_school_districts/EDGE_SCHOOLDISTRICT_TL_23_SY2223.dbf filter=lfs diff=lfs merge=lfs -text
+data/us_school_districts/EDGE_SCHOOLDISTRICT_TL_23_SY2223.prj filter=lfs diff=lfs merge=lfs -text
+data/us_school_districts/EDGE_SCHOOLDISTRICT_TL_23_SY2223.sbn filter=lfs diff=lfs merge=lfs -text
+data/us_school_districts/EDGE_SCHOOLDISTRICT_TL_23_SY2223.sbx filter=lfs diff=lfs merge=lfs -text
+data/us_school_districts/EDGE_SCHOOLDISTRICT_TL_23_SY2223.shp filter=lfs diff=lfs merge=lfs -text
+data/us_school_districts/EDGE_SCHOOLDISTRICT_TL_23_SY2223.shp.xml filter=lfs diff=lfs merge=lfs -text
