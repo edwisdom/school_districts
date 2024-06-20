@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "arizona_schools"
+version = "0.1.0"
+description = "This finds the public school districts that private schools fall into."
+authors = ["edwisdom <22333941+edwisdom@users.noreply.github.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "~3.12"
+pandas = "2.2.2"
+googlemaps = "4.10.0"
+geopandas = "0.14.4"
+shapely = "2.0.4"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
