@@ -163,5 +163,3 @@ cython_debug/
 
 # VSCode
 .vscode/
-
-data/us_school_districts
